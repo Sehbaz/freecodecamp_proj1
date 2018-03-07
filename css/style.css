@@ -1,0 +1,29 @@
+body{
+  font-family:'Roboto Mono';
+  text-align:center;
+ 
+  color:white;
+}
+.title-padding{
+  padding:200px 0px 200px 0px;
+}
+navbar{
+  opacity:0;
+}
+.break {
+  clear: both;
+  margin-top: 20px; }
+.social-media-button{
+  background-color:transparent;
+  border: none;
+}
+
+.footer{
+  height:200px;
+}
+.div-bottom{
+  height:150px;
+}
+.div-top{
+  height:100px;
+}
